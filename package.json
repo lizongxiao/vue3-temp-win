@@ -2,6 +2,7 @@
   "name": "vue3-tpl-win",
   "version": "0.3.1",
   "private": true,
+  "homepage":"https://lizongxiao.github.io/vue3-tpl-win",
   "scripts": {
     "dev": "cross-env vue-cli-service serve",
     "build:test": "vue-cli-service build --mode staging --no-module",
